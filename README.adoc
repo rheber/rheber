@@ -1,1 +1,5 @@
-:)
+image::https://github-readme-stats.vercel.app/api?username=rheber&show_icons=true&theme=radical&hide_title=true&hide_rank=true&border_radius=0[stats, align=center]
+
+image::https://github-readme-stats.vercel.app/api/top-langs?username=rheber&show_icons=true&theme=radical&langs_count=10&border_radius=0&layout=compact[languages, align=center]
+
+Stats cards generated with https://github.com/anuraghazra/github-readme-stats[github-readme-stats].
